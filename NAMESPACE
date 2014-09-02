@@ -1,0 +1,36 @@
+## Import useful function from packages
+
+## Matrix, parallel, methods, rootSolve
+import(methods, Matrix, parallel, rootSolve)
+
+## WGCNA: bicor, TOM, WGCNA
+importFrom("WGCNA",unsignedAdjacency,bicor,TOMsimilarityFromExpr)
+
+## Minet:minet
+importFrom("minet",minet)
+
+## DTW
+importFrom("dtw",dtw)
+
+## minerva
+importFrom("minerva",mine)
+
+## combinatorics utilities for stability indicators computation
+importFrom("combinat",combn)
+
+## igraph
+importFrom("igraph", get.adjacency, get.edge.attribute)
+
+## Exporting all generic methods for Adjacency
+## exportPattern("mat2adj")
+exportMethods(mat2adj)
+## S3method(mat2adj,default)
+## S3method(mat2adj,data.frame)
+## S3method(mat2adj,matrix)
+
+## Export methods for distances
+export(netdist)
+
+## Export methods for network stability
+export(netSI)
+

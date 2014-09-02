@@ -1,0 +1,16 @@
+159cd8b9a38f2e44b456588f47003746 *DESCRIPTION
+21886180f0b04e810c9ae4541240254c *NAMESPACE
+bec999302f7a58b8224f853a6503d803 *R/AllGenerics.R
+ca3c8bf5e71db2efbae7132e405ad9b2 *R/adj_function.R
+b592a636280a2876a6f4981d64fb44e8 *R/hamming_function.R
+63dcc520654458440fe9e6598ea460c8 *R/ipsen_function.R
+ec56e8c51fe1260bbb1be2c6bf296790 *R/mat2adj.R
+66b4ddf8da8e248832386583c33381a4 *R/netSI.R
+7f557d155abe60716c520330fcd9c0de *R/netdist.R
+686f13445d74ebf1d380833919a9a7e4 *README.md
+bc55278e0c624796cec3d5dddbf1348b *man/mat2adj.Rd
+9c64c6b9ba9fdd20e820eaacd09f955e *man/netSI.Rd
+f25a93d15219b01c716d4d00d0abcaa6 *man/netdist.Rd
+56c4b430c7099d9a4fd26dc0ad0b27d4 *man/nettools-package.Rd
+36308ef808ded83ed5079110361b4625 *tests/test.R
+2664597252cb692abf5b6436267aba70 *tests/test.Rout
